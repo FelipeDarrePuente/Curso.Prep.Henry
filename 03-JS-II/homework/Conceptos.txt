@@ -1,0 +1,13 @@
+Conceptos
+
+for: crea un bucle con tres "variables" dentro de unos parentesis. Primero va la expresion inicial, por ejemplo: x = 1; despues se escribe una condicion para la variable anterior, 
+por ejemplo: x >= 100; y por ultimo los pasos que tiene que hacer esa variable, por ejemplo: x++ (suma de a un numero).
+
+&&: es lo mismo que decir 'Y'.
+
+||: es lo mismo que decir 'O', a modo de comparar dos objetos.
+
+!: es como negar una cualquier cosa que le pongas despues, ej: 
+    !==     diferente de
+    !true   false
+    !false  true
