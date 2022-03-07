@@ -1,0 +1,10 @@
+Variables: son "cajitas" donde guardas valores que vayas a necesitar. Para crear una variable usamos [var], y para asignarle un valor a esta variable, necesitamos usar [=]. Ej: [var nombre = "felipe"]. Hay tres tipos distintos de variables muy conocidos y más básicos, estos son los strings, numbers y booleans.
+
+Strings: los "strings" son un tipo de variable que tiene que ir siempree entre comillas simples o dobles. Ya sea una palabra o cadena de texto.
+
+Funciones: las funciones son una de las partes más importantes de cualquier cualquier lenguaje de programación. Con las funciones es con lo que se trabaja practicamente en todo momento. Tanto en el back-end como en el front-end. Dentro de estas funciones, van los argumentos, que puede ser uno o varios (separados por comas). Y para que las funciones retornen algo que el usuario pueda ver, se usa el [return].
+
+Declaración return y scope: se usa return como única forma de que  los datos "escapen" de la función; y scope se llama a cuando intentamos hacer un "console.log" a algo que declaramoss dentro de la función, y nos devuelve [undefined], porque no tenemos acceso a él, fuera de la función.
+
+Valores booleanos: los números booleanos son representados por 0 y 1, siendo el 0 = falso; y 1 = verdadero.
+
