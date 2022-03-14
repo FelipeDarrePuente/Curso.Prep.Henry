@@ -1,0 +1,1 @@
+Arrays: los arrays son objetos similares a una lista, donde cada tipo de elemento es una variable. La longitus de un array, puede cambiar en cualquier momento y los datos se pueden almacenar en ubicaciones no contiguas (esto significa que no es necesario que los datos esten uno delante o debajo de otro).
