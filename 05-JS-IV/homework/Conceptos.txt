@@ -1,0 +1,14 @@
+Objetos: los objetos son como arrays, pero para llamarlas, no usas la posicion del 'array', usas la clave (key) del objeto.
+
+Propiedades: son las palabras definidas dentro de los objetos.
+
+Metodos: son las funciones definidas dentro de los objetos.
+
+Bucle('for....in'): Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves. Podemos usar
+esta clave, y la notación de corchetes, en nuestro bucle for para acceder al valor asociado con esa
+clave.
+
+Notacion de puntos: con la notacion de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave (key)
+
+Notacion con corchetes: con esta notacion, es lo mismo que el punto, solo que para llamar a una key, esta tiene que estar
+dentro de los corchetes y dentro de comillas ('').
