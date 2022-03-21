@@ -1,0 +1,5 @@
+Prototype: las clases tienen una forma unica de de estableccer un metodo una vez y dar acceso a cada objeto de esa clase a esos
+metodos. A esto se le llama "prototype".
+
+Constructors: el metodo constructor es un metodo para crear e inicializar un objeto creado a partir de una clase. Solo puede
+haber un metodo con el nombre de "constructor" en una clase (si posee mas dde uno saltara un error de sintaxis).
