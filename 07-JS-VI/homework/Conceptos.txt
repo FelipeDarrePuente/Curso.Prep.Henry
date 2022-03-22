@@ -1,0 +1,2 @@
+Funciones Callbacks: los callbacks son un conceptos muy importante en Javascript, en el que consiste en pasar una funcion como
+argumento a otra funcion. Estas funciones pueden llamarse en cualquier momento y pasar argumentos dentro de la funcion.
